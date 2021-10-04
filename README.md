@@ -6,7 +6,9 @@ This wallet was created for the Hedera Hashgraph hackathon. It supports all hash
 
 - Grab the latest release from this repository
 - Open up chrome and navigate to `chrome://extensions/`
-- Drag the zip file onto that page
+- Enable 'Developer mode'
+- Click 'Load unpacked'
+- Select `/dist` directory
 - Open the wallet from the top right extension icon, and import your accounts.
 
 ## Application integration
